@@ -11,7 +11,7 @@
     "debug": "~2.6.9",
     "ejs": "^3.0.2",
     "eslint-plugin-ejs": "0.0.2",
-    "express": "~4.16.0",
+    "express": "~4.17.3",
     "express-basic-auth": "^1.2.0",
     "express-vue": "^5.15.0",
     "http-errors": "^1.6.3",
